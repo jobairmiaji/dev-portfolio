@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
 }
 
@@ -231,7 +232,6 @@ footer {
 
 .y {
     flex-basis: 40%;
-    padding-right: 60px;
 }
 
 .contact input[type="text"],
